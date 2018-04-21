@@ -57,6 +57,7 @@
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Settings.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_SkyboxEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
+     <Compile Include="Assets\TerrainToolkit\Editor\TerrainToolkitEditor.cs" />
      <Compile Include="Assets\VRTK\Editor\VRTK_AdaptiveQualityEditor.cs" />
      <Compile Include="Assets\VRTK\Editor\VRTK_EditorUtilities.cs" />
      <Compile Include="Assets\VRTK\Editor\VRTK_InteractHapticsEditor.cs" />
@@ -67,6 +68,9 @@
      <Compile Include="Assets\VRTK\Editor\VRTK_SDKSetupEditor.cs" />
      <Compile Include="Assets\VRTK\Editor\VRTK_SupportInfoWindow.cs" />
      <Compile Include="Assets\VRTK\Editor\VRTK_UpdatePrompt.cs" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>/Users/irinanazarchuk/Documents/uni/Virtual Environments/project/CubeScript/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
