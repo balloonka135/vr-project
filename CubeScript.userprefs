@@ -1,10 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TerrainToolkit/Editor/TerrainToolkitEditor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs">
     <Files>
-      <File FileName="Assets/Assets/Scripts/ObjectGrabber.cs" Line="23" Column="18" />
-      <File FileName="Assets/TerrainToolkit/TerrainToolkit.cs" Line="45" Column="16" />
+      <File FileName="Assets/all_terrain_components/beach/Scripts/graphics/Underwater.cs" Line="64" Column="1" />
+      <File FileName="Assets/Assets/Scripts/ObjectGrabber.cs" Line="1" Column="1" />
+      <File FileName="Assets/TerrainToolkit/TerrainToolkit.cs" Line="1" Column="1" />
       <File FileName="Assets/TerrainToolkit/Editor/TerrainToolkitEditor.cs" Line="50" Column="37" />
+      <File FileName="Assets/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
