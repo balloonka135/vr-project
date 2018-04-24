@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Assets/RealtimeTerrainDigging.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/all_terrain_components/SwimmingSystem/SwimDemo.unity
+  isLoaded: 0
+  isActive: 0

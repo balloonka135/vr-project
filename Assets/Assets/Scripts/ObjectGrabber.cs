@@ -7,7 +7,7 @@ using VRTK;
 public class ObjectGrabber : MonoBehaviour {
 
 	public ModifyTerrain terrainModifier;
-	public bool isColliding = false; // destroy terrain only when controller grab the obj
+	//public bool isColliding = false; // destroy terrain only when controller grab the obj
 
 
 	void OnCollisionEnter(Collision collision) {

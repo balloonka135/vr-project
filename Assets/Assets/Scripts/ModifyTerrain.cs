@@ -5,7 +5,7 @@ using UnityEngine;
 public class ModifyTerrain : MonoBehaviour {
 
 	public Terrain terrain;
-	public float strength = 0.01f;
+	public float strength = 0.005f;
 
 	private int heightmapWidth;
 	private int heightmapHeight;
